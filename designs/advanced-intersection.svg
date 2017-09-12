@@ -1,0 +1,754 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Traffic</title>
+<g id="Canvas" transform="translate(721 512)">
+<rect x="-721" y="-512" width="1440" height="1024" fill="#E5E5E5"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -721 -512L 719 -512L 719 512L -721 512L -721 -512Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Desktop HD" clip-path="url(#clip-0)">
+<path d="M -721 -512L 719 -512L 719 512L -721 512L -721 -512Z" fill="#202020"/>
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-317 -316)" fill="#333333"/>
+</g>
+<g id="Lanes">
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(395 152)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(419 195)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 195)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(611 195)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(707 195)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(395 48)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(419 91)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 91)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(611 91)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(707 91)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(395 -56)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 -13)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(611 -13)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(707 -13)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(1 0 0 -1 419 -3)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(1 0 0 -1 419 9)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path4_fill" transform="matrix(1 0 0 -1 400 33)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(395 -160)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 -117)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(611 -117)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(707 -117)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<path d="M 408 -136L 483 -136L 483 -88L 408 -88L 408 -136Z" fill="#333333"/>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(419 -117)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path4_fill" transform="matrix(4.42354e-17 -1 1 4.42354e-17 408 -88)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(395 -264)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 -221)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(611 -221)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(707 -221)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(419 -221)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path4_fill" transform="matrix(4.42354e-17 -1 1 4.42354e-17 408 -192)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path5_fill" transform="translate(395 -419)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(515 -355)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(419 -355)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="translate(419 -367)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path4_fill" transform="translate(400 -391)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Lanes">
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -167 396)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -210 420)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -63 396)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -106 420)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 41 396)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 1 1.83697e-16 -12 420)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-1.83697e-16 1 1 1.83697e-16 -24 420)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1.83697e-16 1 1 1.83697e-16 -48 401)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 145 396)" fill="#333333"/>
+</g>
+<g id="Group">
+<path d="M 121 409L 121 484L 73 484L 73 409L 121 409Z" fill="#333333"/>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 102 420)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(1 2.27932e-16 -2.27932e-16 1 73 409)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 249 396)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 206 420)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(1 2.27932e-16 -2.27932e-16 1 177 409)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 404 396)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 340 420)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 352 420)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 376 401)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Lanes">
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 -168)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 -211)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 -211)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -629 -211)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 -64)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 -107)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 -107)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -629 -107)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 40)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 -3)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -629 -3)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 -1.22465e-16 1 -437 -13)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-1 -1.22465e-16 -1.22465e-16 1 -437 -25)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1 -1.22465e-16 -1.22465e-16 1 -418 -49)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 144)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 101)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -629 101)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<path d="M -426 120L -501 120L -501 72L -426 72L -426 120Z" fill="#333333"/>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 101)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1.667e-16 1 -1 -1.667e-16 -426 72)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 248)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 205)" fill="#9C7500"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -629 205)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 205)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1.667e-16 1 -1 -1.667e-16 -426 176)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -413 403)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -533 339)" fill="#9C7500"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 339)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -437 351)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -418 375)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Lanes">
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 150 -412)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 193 -436)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 46 -412)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 89 -436)" fill="#9C7500"/>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -58 -412)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 -5 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 7 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(6.12323e-17 -1 -1 -6.12323e-17 31 -417)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -162 -412)" fill="#333333"/>
+</g>
+<g id="Group">
+<path d="M -138 -425L -138 -500L -90 -500L -90 -425L -138 -425Z" fill="#333333"/>
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -119 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1 -1.05468e-16 1.05468e-16 -1 -90 -425)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -266 -412)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -223 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(-1 -1.05468e-16 1.05468e-16 -1 -194 -425)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+<g id="Road">
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -421 -412)" fill="#333333"/>
+</g>
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -357 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -369 -436)" fill="#BDBDBD"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path6_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -393 -417)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Cross Stop">
+<g id="Rectangle 3">
+<use xlink:href="#path8_fill" transform="translate(307.815 -403.185)" fill="#EB5757"/>
+</g>
+<g id="Polygon 2">
+<use xlink:href="#path9_fill" transform="matrix(0.920505 -0.390731 0.390731 0.920505 307 -392.081)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Stop">
+<g id="Rectangle 3">
+<use xlink:href="#path8_fill" transform="translate(-364.185 -403.185)" fill="#EB5757"/>
+</g>
+<g id="Polygon 2">
+<use xlink:href="#path10_fill" transform="matrix(0.920505 -0.390731 0.390731 0.920505 -365 -392.081)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Stop">
+<g id="Rectangle 3">
+<use xlink:href="#path8_fill" transform="translate(308.815 348.815)" fill="#EB5757"/>
+</g>
+<g id="Polygon 2">
+<use xlink:href="#path10_fill" transform="matrix(0.920505 -0.390731 0.390731 0.920505 308 359.919)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Stop">
+<g id="Rectangle 3">
+<use xlink:href="#path8_fill" transform="translate(-364.185 348.815)" fill="#EB5757"/>
+</g>
+<g id="Polygon 2">
+<use xlink:href="#path10_fill" transform="matrix(0.920505 -0.390731 0.390731 0.920505 -365 359.919)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Go">
+<g id="Rectangle 3">
+<use xlink:href="#path11_fill" transform="translate(347 307)" fill="#219653"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path12_fill" transform="translate(357.5 316.87)" fill="#E0E0E0"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path13_fill" transform="translate(365.174 311.5)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Go">
+<g id="Rectangle 3">
+<use xlink:href="#path11_fill" transform="translate(-405 307)" fill="#219653"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path14_fill" transform="translate(-394.5 316.87)" fill="#E0E0E0"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path15_fill" transform="translate(-386.826 311.5)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Go">
+<g id="Rectangle 3">
+<use xlink:href="#path11_fill" transform="translate(347 -364)" fill="#219653"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path14_fill" transform="translate(357.5 -354.13)" fill="#E0E0E0"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path15_fill" transform="translate(365.174 -359.5)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Go">
+<g id="Rectangle 3">
+<use xlink:href="#path11_fill" transform="translate(-405 -364)" fill="#219653"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path14_fill" transform="translate(-394.5 -354.13)" fill="#E0E0E0"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path15_fill" transform="translate(-386.826 -359.5)" fill="#E0E0E0"/>
+</g>
+</g>
+<g id="Cross Walk">
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-33 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(25 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(81 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(137 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(194 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-317 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-261 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-204 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-148 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-91 -404)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(251 -404)" fill="#4F4F4F"/>
+</g>
+</g>
+<g id="Cross Walk">
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -32)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 26)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 82)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 138)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 195)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -316)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -260)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -203)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -147)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 -90)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 387 252)" fill="#4F4F4F"/>
+</g>
+</g>
+<g id="Cross Walk">
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 16)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 -42)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 -98)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 -154)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 -211)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 300)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 244)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 187)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 131)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 74)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="matrix(5.55112e-17 -1 1 5.55112e-17 -404 -268)" fill="#4F4F4F"/>
+</g>
+</g>
+<g id="Cross Walk">
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-33 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(25 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(81 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(137 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(194 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-317 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-261 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-204 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-148 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(-91 307)" fill="#4F4F4F"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path16_fill" transform="translate(251 307)" fill="#4F4F4F"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -309 -192)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path18_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -303 -204)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path18_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -273 -204)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path18_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -243 -204)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="translate(71 -308)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(83 -302)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(83 -272)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(83 -242)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="translate(175 -308)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(187 -302)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(187 -272)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="translate(187 -242)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -193 292)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -205 286)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -205 256)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -205 226)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -89 292)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -101 286)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -101 256)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -101 226)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -309 -88)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -303 -100)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -273 -100)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -243 -100)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 291 72)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 285 84)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 255 84)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 225 84)" fill="#219653"/>
+</g>
+</g>
+<g id="Traffic Light">
+<g id="Rectangle 5">
+<use xlink:href="#path17_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 291 176)" fill="#4F4F4F"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 285 188)" fill="#EB5757"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 255 188)" fill="#F2C94C"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path19_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 225 188)" fill="#219653"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 616 0L 616 616L 0 616L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 408 0L 408 96L 0 96L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 64 0L 64 10L 0 10L 0 0Z"/>
+<path id="path3_fill" d="M 0 0L 10 0L 10 12L 0 12L 0 0Z"/>
+<path id="path4_fill" d="M 24 0L 44.7846 24L 3.21539 24L 24 0Z"/>
+<path id="path5_fill" d="M 0 0L 117.88 0C 118.953 0 120.019 0.172717 121.037 0.511524L 408 96L 0 96L 0 0Z"/>
+<path id="path6_fill" d="M 24 0L 44.7846 24L 3.21539 24L 24 0Z"/>
+<path id="path7_fill" d="M 0 0L 117.88 0C 118.953 0 120.019 0.172717 121.037 0.511524L 408 96L 0 96L 0 0Z"/>
+<path id="path8_fill" d="M 0 0L 38.132 0L 38.132 38.132L 0 38.132L 0 0Z"/>
+<path id="path9_fill" d="M 15.2528 0L 26.0381 4.46744L 30.5056 15.2528L 26.0381 26.0381L 15.2528 30.5056L 4.46744 26.0381L 0 15.2528L 4.46744 4.46744L 15.2528 0Z"/>
+<path id="path10_fill" d="M 15.2528 0L 26.0381 4.46744L 30.5056 15.2528L 26.0381 26.0381L 15.2528 30.5056L 4.46744 26.0381L 0 15.2528L 4.46744 4.46744L 15.2528 0Z"/>
+<path id="path11_fill" d="M 0 0L 40 0L 40 40L 0 40L 0 0Z"/>
+<path id="path12_fill" d="M 9.58648 0L 2.91235 3.03498L 0 10.1975C 0.977579 11.8459 1.64376 11.7619 2.91235 10.9259L 4.85391 6.06996L 6.55278 4.49177L 3.51909 12.7469L 0 23.43L 3.51909 25.1296L 7.15952 15.1749L 9.58648 19.9095L 10.5573 25.1296L 14.4404 25.1296L 13.4696 17.8457L 9.58648 12.1399L 11.8921 7.04115L 12.7415 9.10494L 18.5662 12.1399C 19.4335 11.4272 19.641 11.0037 19.4157 10.1975L 13.4696 4.49177L 12.7415 0.606996L 9.58648 0Z"/>
+<path id="path13_fill" d="M 7.40222 3.64198C 7.40222 5.65338 5.74517 7.28395 3.70111 7.28395C 1.65704 7.28395 0 5.65338 0 3.64198C 0 1.63057 1.65704 0 3.70111 0C 5.74517 0 7.40222 1.63057 7.40222 3.64198Z"/>
+<path id="path14_fill" d="M 9.58648 0L 2.91235 3.03498L 0 10.1975C 0.977579 11.8459 1.64376 11.7619 2.91235 10.9259L 4.85391 6.06996L 6.55278 4.49177L 3.51909 12.7469L 0 23.43L 3.51909 25.1296L 7.15952 15.1749L 9.58648 19.9095L 10.5573 25.1296L 14.4404 25.1296L 13.4696 17.8457L 9.58648 12.1399L 11.8921 7.04115L 12.7415 9.10494L 18.5662 12.1399C 19.4335 11.4272 19.641 11.0037 19.4157 10.1975L 13.4696 4.49177L 12.7415 0.606996L 9.58648 0Z"/>
+<path id="path15_fill" d="M 7.40222 3.64198C 7.40222 5.65338 5.74517 7.28395 3.70111 7.28395C 1.65704 7.28395 0 5.65338 0 3.64198C 0 1.63057 1.65704 0 3.70111 0C 5.74517 0 7.40222 1.63057 7.40222 3.64198Z"/>
+<path id="path16_fill" d="M 0 0L 48 0L 48 80L 0 80L 0 0Z"/>
+<path id="path17_fill" d="M 0 0L 48 0L 48 96L 0 96L 0 0Z"/>
+<path id="path18_fill" d="M 24 12C 24 18.6274 18.6274 24 12 24C 5.37258 24 0 18.6274 0 12C 0 5.37258 5.37258 0 12 0C 18.6274 0 24 5.37258 24 12Z"/>
+<path id="path19_fill" d="M 24 12C 24 18.6274 18.6274 24 12 24C 5.37258 24 0 18.6274 0 12C 0 5.37258 5.37258 0 12 0C 18.6274 0 24 5.37258 24 12Z"/>
+</defs>
+</svg>
