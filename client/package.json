@@ -1,0 +1,13 @@
+{
+  "name": "traffic-client",
+  "version": "0.0.0",
+  "description": "Web interface for the traffic simulation app.",
+  "scripts": {
+    "start": "node .",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}

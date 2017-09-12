@@ -1,0 +1,5 @@
+-r ./test/config.js
+
+--ui bdd
+
+./**/*.specs.js
