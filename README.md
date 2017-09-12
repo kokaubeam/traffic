@@ -12,7 +12,7 @@ Add `traffic.local` to the host file and direct it to the docker host, usually `
 docker-compose -f docker-compose.dev.yml up -d
 ```
 
-_Open [https://traffic.local]._
+_Open [https://traffic.local](https://traffic.local)._
 
 ### Using Docker
 
@@ -20,14 +20,15 @@ _Open [https://traffic.local]._
 docker build -t traffic-client client
 docker run -p 3000:3000 traffic-client
 ```
-_Open [http://localhost:3000]._
+_Open [http://localhost:3000](http://localhost:3000)._
 
 ### Using Node
 
 ```
 cd client
 npm i
+npm build
 npm start
 ```
 
-_Open [http://localhost:3000]._
+_Open [http://localhost:3000](http://localhost:3000)._
