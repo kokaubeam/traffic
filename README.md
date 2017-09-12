@@ -9,7 +9,7 @@ Simulation of a traffic intersection.
 Add `traffic.local` to the host file and direct it to the docker host, usually `127.0.0.1`.
 
 ```
-docker-compose up -d
+docker-compose -f docker-compose.dev.yml up -d
 ```
 
 _Open [https://traffic.local]._
