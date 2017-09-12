@@ -10,4 +10,23 @@ describe('app', () => {
         .expect(404)
     })
   })
+
+  context('GET /', () => {
+    var response
+
+    before(() => {
+      return request.get('/')
+        .then((res) => {
+          response = res
+        })
+    })
+    
+    it('should return 200', () => {
+      expect(response.status).to.equal(200)
+    })
+
+    it('should return the static index.html page', () => {
+      expect(response.text).to.contain('<title>Traffic</title>')
+    })
+  })
 })

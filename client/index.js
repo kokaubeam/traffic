@@ -3,6 +3,8 @@ const serve = require('koa-static');
 
 const app = module.exports.app = new Koa()
 
+app.use(serve('public'));
+
 if (!module.parent) start()
 
 function start() {
