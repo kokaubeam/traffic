@@ -4,6 +4,7 @@
   "description": "Web interface for the traffic simulation app.",
   "scripts": {
     "build": "webpack --progress --colors",
+    "build:dev": "npm run build -- --watch",
     "start": "node .",
     "start:dev": "nodemon -w index.js .",
     "test": "mocha"
@@ -26,7 +27,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.6",
-    "react-router": "^4.2.0",
+    "react-router": "3.0.2",
     "react-router-redux": "^4.0.8",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
