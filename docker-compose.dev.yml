@@ -1,0 +1,25 @@
+version: '3'
+services:
+  haproxy:
+    image: 'dockercloud/haproxy:1.6.7'
+    environment:
+      - 'DEFAULT_SSL_CERT=-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDX8ZplHPaEJID5\ntQGGicuxVbhem/88Vkv7Xpf5EfWRlvaQWqygk5fPopUb/UmgyUW2EQkHW7jhvvHD\nWoA/5rnV3hcaclKUbB2HWpj9aAjcyowyALYHW0ukC0ogUoPkZIqVPx+fdi0aG2r+\nab3EDUbn3BxhDS3DKlgNb29mFS8r5ADId7kRoNLIMw3p7YwKUc08beBMBX3cF3JP\ncf/cm/zKt7LpGvFSaoFnG/JTs1UEpIeIXl3xh7MJUu64OnBG926KqjIMbVd5u3kh\nts1IGkoIOrM9cFAmKqK3dv6iRFRWBRMpYUtuJFDgHkpba+oZDYWSbld44MpIy4Ly\nhTLogWzrAgMBAAECggEAYh5DOwJH+I7lk5BtGwZtaSw707Ep7e6AI709bEx+uiJP\n8hNhMK0fY5bKDaeu1sHdTPa8lX1Vqi0qiMsMTvy1H7oD4V5kq0/csu21ah7lN/1I\nakfsbbdLzUPb8IfNqe8NEPdXlQsLPzuKCANf2D74Is3ejzJ/wpfw3lnt0gJ6JoRj\nMtxJcFU24jfpsx1JDqJytFhijfT8hfyn5zqmB5YXA/eaDvrbZ4YsCALHoZVOjyLf\n8qhjc9ofG3MydCE6xM+DapnvjGSiWHHA+pP8+rLKu4NhlrhKG1QQcln2bEFCwsQ5\nEfpjNny2Vr08f3JIK7/cfTpo75X58r34gsQUzb2PUQKBgQDsvHBRo7Cv271SmUUa\nFrCiNdAxD69fq2QAakc8e4/0UWp9PFZK1uWw+tThUvx6+U1mClV5CgvQYK3ujaLZ\n0vycO0/X+hVqLGZvyLe0BCUn7sLZOJkjHH7ddYM9Dx/qp33/TcECwtBZt1hovVzZ\nVokMdiXk1TYqz3gFVb+1Wm7rvQKBgQDphAeSyYHTu8KJnak3pdk+OYAjPXDVR5w7\n7K0QoRff4OggYkJVncXPmJi0xYZYtTz4NrqOy4wo5kg0u+Ih+zCwJQtYNj4lnrot\nDnhElpOC2NFwiJBmEr91oQxR0ALpDc7Lc+H9HJogbenOUerkjdXH72YxHQfIlBA3\npOHCy90xxwKBgBF7uS/OTvYt3EWFXD0Y/+J65u04o1MFbVU6hBhLZ847VQn6ssTE\nKiJv49jgMBVE5BptGPLfcw/ok+/SNfywQEepebQRnBNDRC1tPWPmCnhwgaNZMrYN\nHLFuREr2Gv1RcVSxgVea25hEmhriIUFLysNI1nOX63At8kcylf3mt9phAoGADTKh\nGvK4m7bo784xWivNc27chyFZ1zQM6HYf8eio6MZVWD81cJFSNMFzIARp62mS4JR3\nRsrKSSV6v0A/L5x6y/nMAlhOeuHVs+Y1dersu2B1td6CCsLUf1ly0Mzo3TMilO0f\nwKZ1L5AGvtpyZCiABKTLKctyPSvhHsP63n+XKNECgYAgBMKkdZtesocJRNISqpFu\nWt5L1z8jm1y6VJyO9u7Y1+BC03co4Ep3mjDKVflVFPB+0i+xAtG89wBHRwidQPqe\nm7hpvJfAp/SWdQm4E8AfTtIDoeak4qFNr4zPO6LT+12O64eLo9RoSe0iKHpLi7zx\nTrhI2YbP7ZdGwVKpF1NB0w==\n-----END PRIVATE KEY-----\n-----BEGIN CERTIFICATE-----\nMIIDKTCCAhGgAwIBAgIJALVmMicaM1mSMA0GCSqGSIb3DQEBCwUAMCsxCjAIBgNV\nBAMMASoxEDAOBgNVBAoMB1RyYWZmaWMxCzAJBgNVBAYTAlVTMB4XDTE3MDkxMjAx\nMjgyNFoXDTIwMDgyNzAxMjgyNFowKzEKMAgGA1UEAwwBKjEQMA4GA1UECgwHVHJh\nZmZpYzELMAkGA1UEBhMCVVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\nAQDX8ZplHPaEJID5tQGGicuxVbhem/88Vkv7Xpf5EfWRlvaQWqygk5fPopUb/Umg\nyUW2EQkHW7jhvvHDWoA/5rnV3hcaclKUbB2HWpj9aAjcyowyALYHW0ukC0ogUoPk\nZIqVPx+fdi0aG2r+ab3EDUbn3BxhDS3DKlgNb29mFS8r5ADId7kRoNLIMw3p7YwK\nUc08beBMBX3cF3JPcf/cm/zKt7LpGvFSaoFnG/JTs1UEpIeIXl3xh7MJUu64OnBG\n926KqjIMbVd5u3khts1IGkoIOrM9cFAmKqK3dv6iRFRWBRMpYUtuJFDgHkpba+oZ\nDYWSbld44MpIy4LyhTLogWzrAgMBAAGjUDBOMB0GA1UdDgQWBBSzrs5e6jICSgDO\nAhpg/hxDwd0BajAfBgNVHSMEGDAWgBSzrs5e6jICSgDOAhpg/hxDwd0BajAMBgNV\nHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQC++BT4De5sJ98UUUqaADdpMiSI\nxynOy8d2QhrqvdsUq0p2amka1ceh3/ZXnPwfx+YAFKcuQhVYaG0iZi2Ud/mesTar\nJThpHl8JSHibmiyY0qHWEq4YPR7rD7h4NVCd7M3P/ryZA1arQL3qFn3jyFNjkp6d\nInpjpupl8ISq1cItYIQLILoMzqZwn7ujjhhLV4NDBOsjl1p8t9ybb5bWloofr18L\nuMMFPWbL6YsV8V6nvHwnlakZ3WpwWvxcpzFU4gkLF/fdixv/XJ59LvceogmpL2FC\nDEzR4GS+isWh1q7+K+ff0E/BLDX8XtWlUz+9srGt8/+jnCzfp9/dfSRTi1a4\n-----END CERTIFICATE-----\n'
+    links:
+      - client
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+  client:
+    build: './client'
+    environment:
+      - FORCE_SSL=yes
+      - NODE_ENV=development
+      - PORT=80
+      - 'VIRTUAL_HOST=traffic.local, https://traffic.local'
+    command: npm run start:dev
+    expose:
+      - '80'
+    volumes:
+      - './client:/usr/src/app'
