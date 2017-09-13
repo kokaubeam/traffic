@@ -14,3 +14,41 @@
     width: 200px;
     background: #333333;
 }
+
+.top, .right, .bottom, .left {
+    position: absolute;
+    height: 200px;
+    width: 296px;
+
+}
+
+.top > svg:not(:last-child),
+.right > svg:not(:last-child),
+.bottom > svg:not(:last-child),
+.left > svg:not(:last-child) {
+    margin: 0 0 4px 0;
+}
+
+.top {
+    top: 48px;
+    left: calc(50% - 148px);
+    transform: rotate(90deg);
+}
+
+.right {
+    top: calc(50% - 100px);
+    left: calc(50% + 108px);
+    transform: rotate(180deg);
+}
+
+.bottom {
+    bottom: 48px;
+    left: calc(50% - 148px);
+    transform: rotate(270deg);
+}
+
+.left {
+    top: calc(50% - 100px);
+    left: 0px;
+    transform: rotate(180deg);
+}
