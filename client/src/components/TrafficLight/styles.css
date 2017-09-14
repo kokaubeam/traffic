@@ -1,0 +1,15 @@
+.frame {
+  fill: #4F4F4F;
+}
+
+.stop {
+  fill: #EB5757;
+}
+
+.warning {
+  fill: #F2C94C;
+}
+
+.go {
+  fill: #219653;
+}

@@ -19,7 +19,6 @@
     position: absolute;
     height: 200px;
     width: 296px;
-
 }
 
 .top > svg:not(:last-child),
@@ -50,5 +49,11 @@
 .left {
     top: calc(50% - 100px);
     left: 0px;
-    transform: rotate(180deg);
+}
+
+.trafficLight {
+    position: absolute;
+    top: 0;
+    left: 216px;
+    transform: rotate(90deg);
 }
